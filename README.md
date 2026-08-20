@@ -3,7 +3,15 @@
 
 - 🌱 I’m currently learning **Django , Node.js , Express.js**
 
-- 💬 Ask me about **react.js , Html, Css**
+- 💬 Ask me about **JAVA JAVASCRIPT PYTHON C++ HTML
+CSS
+React
+Node.js
+Express.js
+MongoDB
+Socket.IO
+Git
+GitHub**
 
 - 📫 How to reach me **am5485414@gmail.com**
 
